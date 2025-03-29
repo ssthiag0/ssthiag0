@@ -4,15 +4,9 @@
 
 <p>
 
-- 📚 Estudando Análise e Desenvolvimento de Sistemas - 1/5
-
 - 🎨 Noções básicas de front-end
 
 - 💻 Aprendendo Java
-
-- 💼 Trabalhando atualmente em Recursos Humanos
-
-- 🎮 Gosto de Esportes e Esports
   
 ##
   
