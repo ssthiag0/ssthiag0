@@ -7,9 +7,9 @@
 - 💻 Aprendendo Java
   
 <div align="center">
-  <a href="https://github.com/ssthiag0">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssthiag0&layout=compact&langs_count=7&theme=gotham"/>
-</div>
+   <a href="https://github.com/ssthiag0">
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssthiag0&layout=compact&langs_count=7&theme=gotham"/>
+ </div>
   
 ##
   
